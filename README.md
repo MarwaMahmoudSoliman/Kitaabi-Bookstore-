@@ -13,7 +13,7 @@ A full-featured bookstore application with:
 
     Stripe payment integration
 
-    Responsive Material UI design
+    Responsive UI design
 
 🌟 Key Features
 📚 Book Management

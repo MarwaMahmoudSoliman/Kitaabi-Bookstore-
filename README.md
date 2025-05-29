@@ -3,7 +3,7 @@
 **Angular 19 + Stripe E-Commerce Solution**
 
 🔗 [Live Website](https://kitaabi-zeta.vercel.app/)  
-🎬 [Demo Video](https://www.youtube.com/watch?v=LVSavDxwY_Q)
+🎬 [Demo Video]([(https://drive.google.com/file/d/1Fdij6y-glwDaedvc7ESuJZ6XQKQa5Nn3/view)]
 
 ---
 
